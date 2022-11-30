@@ -1,37 +1,39 @@
 # Cuscuz Paulista #
 
 ### INGREDIENTES ###
-*1/2 xícara (chá) de azeite
-*1 cebola picada
-*1 lata ou caixa de molho de tomate
-*2 latas de água
-*1 lata de ervilha
-*1 lata de milho verde
-*1 pimentão
-*2 latas de sardinha ou atum
-*cheiro-verde a gosto
-*sal e temperos a gosto
-*1 tablete de caldo de legumes ou do seu sabor preferido
-*3 xícaras de farinha de milho grossa
-*3 ovos cozidos
-**tomate para decorar**
+- 1/2 xícara (chá) de azeite
+- 1 cebola picada
+- 1 lata ou caixa de molho de tomate
+- 2 latas de água
+- 1 lata de ervilha
+- 1 lata de milho verde
+- 1 pimentão
+- 2 latas de sardinha ou atum
+
+- cheiro-verde a gosto
+- sal e temperos a gosto
+
+- 1 tablete de caldo de legumes ou do seu sabor preferido
+- 3 xícaras de farinha de milho grossa
+- 3 ovos cozidos
+- **tomate para decorar**
  
  
 ### MODO DE PREPARO ###
 
-Refogue no azeite, a cebola, o pimentão, as azeitonas, a ervilha, o milho verde, o molho de tomate, o cheiro-verde, a sardinha, os temperos e o tablete de caldo .
+- Refogue no azeite, a cebola, o pimentão, as azeitonas, a ervilha, o milho verde, o molho de tomate, o cheiro-verde, a sardinha, os temperos e o tablete de caldo .
 
-Coloque a água, deixe ferver, coloque a farinha de milho e cozinhe.
+- Coloque a água, deixe ferver, coloque a farinha de milho e cozinhe.
 
-Unte a forma com azeite, e coloque os ovos, os tomates e a sardinha por baixo.
+- Unte a forma com azeite, e coloque os ovos, os tomates e a sardinha por baixo.
 
-Coloque a massa na forma, deixe esfriar e desenforme.
+- Coloque a massa na forma, deixe esfriar e desenforme.
 
 ### INFORMAÇÕES ADICIONAIS ###
-Além da receita de cuscuz paulista: muitas outras delícias no TudoGostoso
+- Além da receita de cuscuz paulista: muitas outras delícias no TudoGostoso
  
 
-O cuscuz paulista é uma receita tradicional do estado de São Paulo. A culinária brasileira, por ser muito rica, tem vários sabores diferentes e maravilhosos. Confira essa receita de feijão tropeiro, tradicional prato mineiro, e conheça um pouco mais de nossa culinária!
+- O cuscuz paulista é uma receita tradicional do estado de São Paulo. A culinária brasileira, por ser muito rica, tem vários sabores diferentes e maravilhosos. Confira essa receita de feijão tropeiro, tradicional prato mineiro, e conheça um pouco mais de nossa culinária!
 
  
 
