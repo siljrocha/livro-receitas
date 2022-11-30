@@ -1,19 +1,21 @@
+# Cuscuz Paulista #
+
 ### INGREDIENTES ###
-1/2 xícara (chá) de azeite
-1 cebola picada
-1 lata ou caixa de molho de tomate
-2 latas de água
-1 lata de ervilha
-1 lata de milho verde
-1 pimentão
-2 latas de sardinha ou atum
-cheiro-verde a gosto
-sal e temperos a gosto
-1 tablete de caldo de legumes ou do seu sabor preferido
-3 xícaras de farinha de milho grossa
-3 ovos cozidos
-tomate para decorar
- Comprar ingredientes
+*1/2 xícara (chá) de azeite
+*1 cebola picada
+*1 lata ou caixa de molho de tomate
+*2 latas de água
+*1 lata de ervilha
+*1 lata de milho verde
+*1 pimentão
+*2 latas de sardinha ou atum
+*cheiro-verde a gosto
+*sal e temperos a gosto
+*1 tablete de caldo de legumes ou do seu sabor preferido
+*3 xícaras de farinha de milho grossa
+*3 ovos cozidos
+**tomate para decorar**
+ 
  
 ### MODO DE PREPARO ###
 

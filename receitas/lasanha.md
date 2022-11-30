@@ -1,4 +1,4 @@
-# Lasanha a Bolonhesa
+# Lasanha a Bolonhesa #
 
 ### INGREDIENTES ###
  - 500 g de massa de lasanha
@@ -18,7 +18,7 @@
 
 
 ### MODO DE PREPARO ###
-##LASANHA##
+
  - Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
 
 ## MOLHO À BOLONHESA ##
