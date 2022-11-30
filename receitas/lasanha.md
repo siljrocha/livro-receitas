@@ -1,6 +1,6 @@
-#Lasanha a Bolonhesa
+# Lasanha a Bolonhesa
 
-###INGREDIENTES###
+### INGREDIENTES ###
  - 500 g de massa de lasanha
  - 500 g de carne moída
  - 2 caixas de creme de leite
@@ -17,15 +17,15 @@
  - 1 pacote de queijo ralado
 
 
-###MODO DE PREPARO###
+### MODO DE PREPARO ###
 ##LASANHA##
  - Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
 
-##MOLHO À BOLONHESA##
+## MOLHO À BOLONHESA ##
  - Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve.
 
 
-##MONTAGEM##
+## MONTAGEM ##
  - Despeje uma parte do molho à bolonhesa em um refratário, a metade da massa, a metade do presunto, a metade da mussarela, todo o molho branco e o restante da massa.
 
  - Repita as camadas até a borda do recipiente.
