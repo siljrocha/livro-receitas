@@ -1,6 +1,7 @@
 
 Livro receitas
 
-Olá! Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu livro de receitas favoritas.
 
-###Lasanha
+* Lasanha
+* Cuscuz Paulista
