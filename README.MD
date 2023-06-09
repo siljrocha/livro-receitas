@@ -3,7 +3,7 @@
 # Livro de receitas #
 
 
-## Olá! Bem vindo ao livro com minhas receitas favoritas.
+## Olá! Bem vindo (a) as minhas receitas favoritas.
 
 > * [Lasanha a Bolonhesa](https://github.com/siljrocha/livro-receitas/blob/master/receitas/lasanha.md)
 >
