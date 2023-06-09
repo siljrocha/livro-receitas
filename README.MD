@@ -1,12 +1,12 @@
-
+<img src="imagens/imagem-receitas.PNG" align="right" width="300">
 # Livro receitas #
 
-**Olá! Bem vindo ao meu livro de receitas favoritas...**
+**Olá! Bem vindo ao livro com minhas receitas favoritas.**
 
-> Lasanha
+> * [Lasanha a Bolonhesa](https://github.com/siljrocha/livro-receitas/blob/master/receitas/lasanha.md)
 >
-> Cuscuz Paulista
+> * [Cuscuz Paulista](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Cuscuz%20Paulista.md)
 >
-> Pavê
+> * [Pavê de Abacaxi](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Pav%C3%AA%20de%20Abacaxi.md)
 >
-> Bolo de Cenoura
+>  [Bolo de Cenoura](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Bolo%20de%20Cenoura.md)
