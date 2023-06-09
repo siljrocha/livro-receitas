@@ -1,7 +1,8 @@
-<img src="imagens/imagem-receitas.PNG" align="right" width="300">
-# Livro receitas #
+<img src="imagens/imagem-receitas.PNG" align="right" width="250">
+# Livro de receitas 
 
-**Olá! Bem vindo ao livro com minhas receitas favoritas.**
+
+## Olá! Bem vindo ao livro com minhas receitas favoritas.
 
 > * [Lasanha a Bolonhesa](https://github.com/siljrocha/livro-receitas/blob/master/receitas/lasanha.md)
 >
