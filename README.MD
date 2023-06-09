@@ -1,4 +1,4 @@
-<img src="imagens/imagem-receitas.PNG" align="right" width="250">
+<img src="imagens/imagem-receitas.PNG" align="right" width="300">
 
 # Livro de receitas #
 
