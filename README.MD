@@ -9,4 +9,4 @@
 >
 > * [Pavê de Abacaxi](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Pav%C3%AA%20de%20Abacaxi.md)
 >
->  [Bolo de Cenoura](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Bolo%20de%20Cenoura.md)
+> * [Bolo de Cenoura](https://github.com/siljrocha/livro-receitas/blob/master/receitas/Bolo%20de%20Cenoura.md)
